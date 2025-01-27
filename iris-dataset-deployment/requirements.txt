@@ -1,0 +1,5 @@
+scikit-learn==1.5.2  # Must match your model's training version
+numpy==1.26.4
+joblib==1.4.2
+fastapi==0.109.2
+uvicorn==0.27.1
